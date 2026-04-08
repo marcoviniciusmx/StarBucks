@@ -13,6 +13,10 @@
   <a href="#-getting-started">Como executar</a>
 </p>
 
+<br>
+
+<img src="./img/Mockup - StarBucks.png" alt="Mockup StarBucks" width="100%">
+
 ---
 
 ## 🏠 About the project
